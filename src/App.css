@@ -4,3 +4,7 @@
 .contenedor h1{
   color:rgb(126, 120, 113);
 }
+.container-tarjetas{
+  display: flex;
+  
+}
